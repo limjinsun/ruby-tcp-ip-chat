@@ -1,5 +1,4 @@
 # TCP/IP Server Client Chatting Application.
----
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -21,22 +20,15 @@ Download or clone the repo, and run on the terminal.
 ### Installation
 
 1. Clone the repo
-2. Open one terminal window
+2. Open one terminal window for server socket
    ```
    ruby server.rb
    ```
-3. Open another terminal window
+3. Open 3 another terminal window for client socket
    ```sh
    ruby client.rb
    ```
-4. Open another terminal window
-   ```sh
-   ruby client.rb
-   ```
-5. Open another terminal window
-   ```sh
-   ruby client.rb
-   ```
+4. Try to type in stdin
 
 <!-- LICENSE -->
 ## License
