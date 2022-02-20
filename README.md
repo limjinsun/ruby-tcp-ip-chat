@@ -1,5 +1,6 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project - TCP/IP Server Client Chatting Application.
+## TCP/IP Server Client Chatting Application.
+### About The Project
 
 ![tcp-ip-chat](./assets/chat-full.gif)
 
