@@ -5,7 +5,7 @@
 
 ### About The Project
 
-This is a simple implementation of TCP IP network communication of Ruby standard library. The server has been implemented as multi-threaded so that it can handle multiple client sockets. The client is taking the socket's buffer to read data streams.
+This is a simple implementation of TCP IP network communication using Ruby standard library. The server has been implemented as multi-threaded so that it can handle multiple client sockets. The client is taking the socket's buffer to read data streams.
 
 
 ### Built With
