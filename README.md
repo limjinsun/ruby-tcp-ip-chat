@@ -1,8 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## TCP/IP Server Client Chatting Application.
-### About The Project
 
 ![tcp-ip-chat](./assets/chat-full.gif)
+
+### About The Project
 
 This is a simple implementation of TCP IP network communication of Ruby standard library. The server has been implemented as multi-threaded so that it can handle multiple client sockets. The client is taking the socket's buffer to read data streams.
 
