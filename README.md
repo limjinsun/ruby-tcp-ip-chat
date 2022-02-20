@@ -5,7 +5,7 @@
 
 ### About The Project
 
-This is a simple implementation of TCP IP network communication using Ruby standard library. The server has been implemented as multi-threaded so that it can handle multiple client sockets. The client is taking the socket's buffer to read data streams. Server can handle multiple exception which usually occur when the socket networking happens. Connect / EOF(Disconnect) / READ.
+This is a simple implementation of TCP IP network communication using Ruby standard library. The server has been implemented as multi-threaded so that it can handle multiple client sockets. The client is taking the socket's buffer to read data streams. The server can handle multiple exceptions which usually occur when the socket networking happens.
 
 ### Built With
 
